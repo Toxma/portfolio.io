@@ -1,0 +1,34 @@
+baseURL = "https://mzinutti.github.io/"
+languageCode = 'fr-fr'
+title = 'My New Hugo Site'
+
+
+[menu]
+  [[menu.header]]
+    name = "à propos"
+    weight = 1
+    url = "/about/"
+  [[menu.header]]
+    name = "compétences"
+    weight = 2
+    url = "/skills/"
+  [[menu.header]]
+    name = "projets"
+    weight = 3
+    url = "/project/"
+
+
+[params]
+  Name = "Matteo Zinutti"
+  HeaderUsername = "Matteoz"
+  HeaderHostname = "portfolio"
+  About = "Actuellement en 3ème année de Bachelor systèmes, réseaux et cloud à Sup De Vinci. Je souhaite par le futur poursuivre mes études en Mastère DevOps & Cloud."
+  ProfilePicture = "/profilepic.png"
+  favicon = "/fav.ico"
+  GithubID = "Toxma"
+  LinkedInID = "matteozinutti"
+  CvURL = "/cv-matteo-zinutti.pdf"
+  Email = "matteo.zinutti@gmail.com"
+
+
+
