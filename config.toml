@@ -27,7 +27,7 @@ title = 'My New Hugo Site'
   favicon = "/fav.ico"
   GithubID = "Toxma"
   LinkedInID = "matteozinutti"
-  CvURL = "/cv-matteo-zinutti.pdf"
+  CvURL = "cv-matteo-zinutti.pdf"
   Email = "matteo.zinutti@gmail.com"
 
 
