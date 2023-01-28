@@ -19,7 +19,7 @@ menu = "main"
 
 ## Mes services
 
-> Actuellement j'héberge 4 services sur mon Raspeberry, 3 services conteneurisé avec docker et le dernier (VPN) installé directement sur le raspeberry. Les services conteneurisé sont déployés grâce à des fichiers docker-compose ce qui permet une configuration et un déploiement rapide.
+> Actuellement j'héberge 4 services sur mon Raspeberry PI, 3 services conteneurisé avec docker et le dernier (VPN) installé directement sur le Raspeberry PI. Les services conteneurisé sont déployés grâce à des fichiers docker-compose ce qui permet une configuration et un déploiement rapide.
 
 ### Portainer
 

@@ -1,30 +1,13 @@
 +++
 title = "À propos"
-date = "2014-04-09"
+date = "2023-01-28"
 menu = "main"
 +++
 
-Hugo is a static site engine written in Go.
+## Qui suis-je ?
 
+Je m'appelle Matteo ZINUTTI, actuellement en 3ème année de Bachelor Systèmes, Réseaux et Cloud en alternance à l'école Sup De Vinci. Passionné d'informatique et de nouvelles technologies depuis le lycée j'ai donc décidé de poursuivre mes études dans ce domaine. Avec une première expérience dans l'automatisation informatique / éléctronique en DUT GEII, je me suis ensuite réorienté dans une branche plus spécialisé dans le développement web / applicatif en BTS SIO et désormais je me forme dans les domaines des systèmes, réseaux et cloud.
 
-It makes use of a variety of open source projects including:
+## Mon projet professionnel
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+Dans une suite logique de mon projet professionnel, je souhaite rassembler les 3 domaines que j'ai étudié auparavent et actuellement dans un seul et même métier, ceci se rapproche beaucoup du DevOps. J'essaye donc déjà de me former à titre personnel dans le domaine du DevOps afin d'acquérir des compétences et des notions qui me seront utiles dans le futur.
