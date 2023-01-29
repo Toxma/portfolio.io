@@ -1,17 +1,17 @@
 <!-- Logo for home page + redirect link -->
 
 {{ with .Site.Params.GithubID }}
-<a href="https://github.com/{{.}}" rel="me" title="GitHub"><i class="fab fa-github fa-3x" aria-hidden="true"></i></a>
+<a href="https://github.com/{{.}}" rel="me" title="GitHub" target="_blank"><i class="fab fa-github fa-3x" aria-hidden="true"></i></a>
 {{ end }}
 {{ with .Site.Params.GitlabId }}
-<a href="https://gitlab.com/{{.}}" rel="me" title="GitLab"><i class="fab fa-gitlab fa-3x" aria-hidden="true"></i></a>
+<a href="https://gitlab.com/{{.}}" rel="me" title="GitLab" target="_blank"><i class="fab fa-gitlab fa-3x" aria-hidden="true"></i></a>
 {{ end }}
 {{ with .Site.Params.LinkedInID }}
-<a href="https://linkedin.com/in/{{.}}" rel="me" title="LinkedIn"><i class="fab fa-linkedin fa-3x" aria-hidden="true"></i></a>
+<a href="https://linkedin.com/in/{{.}}" rel="me" title="LinkedIn" target="_blank"><i class="fab fa-linkedin fa-3x" aria-hidden="true"></i></a>
 {{ end }}
 {{ with .Site.Params.Email }}
-<a href="mailto:{{.}}" title="Email"><i class="fas fa-envelope fa-3x" aria-hidden="true"></i></a>
+<a href="mailto:{{.}}" title="Email" target="_blank"><i class="fas fa-envelope fa-3x" aria-hidden="true"></i></a>
 {{ end }}
 {{ with .Site.Params.CvURL }}
-<a href="{{.}}" title="Curriculum Vitae"><i class="fas fa-file-alt fa-3x" aria-hidden="true"></i></a>
+<a href="{{.}}" title="Curriculum Vitae" target="_blank"><i class="fas fa-file-alt fa-3x" aria-hidden="true"></i></a>
 {{ end }}
