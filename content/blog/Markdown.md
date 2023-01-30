@@ -20,9 +20,9 @@ menu = "main"
 
 ## Éditeur de texte
 
-> Pour le markdown j'utilise comme éditeur de texte [VSCodium](https://vscodium.com/) qui est une alternative à VSCode en supprimant tout les trackeurs de Microsoft.
+> Pour le markdown j'utilise comme éditeur de texte [VSCodium](https://vscodium.com/) qui est une alternative à VSCode en supprimant tout les trackeurs de Microsoft. Il est même possible de configurer VSCodium pour qu'il accéde à la marketplace des extensions de Visual Studio Code.
 
-![image](/static/vscodium.png)
+![image](/vscodium.png)
 
 ### Mes extensions
 
