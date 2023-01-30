@@ -1,6 +1,6 @@
 +++
 title = "Homelab"
-date = 2023-01-25T20:01:13+01:00
+date = 2023-01-25
 menu = "main"
 +++
 
@@ -9,13 +9,21 @@ menu = "main"
 <!--more-->
 ---
 
+- [Mon infrastructure](#mon-infrastructure)
+- [Mes services](#mes-services)
+  - [Portainer](#portainer)
+  - [FreshRSS](#freshrss)
+  - [Prometheus / Grafana](#prometheus--grafana)
+  - [PiVPN (Wireguard)](#pivpn-wireguard)
+- [Par la suite](#par-la-suite)
+
+---
+
 ## Mon infrastructure
 
 - Raspberry Pi 4 4GB
 - NAS Synology DS214
 - Switch Netgear 8 ports 1Gb/s
-
----
 
 ## Mes services
 
