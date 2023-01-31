@@ -19,7 +19,7 @@ title = 'Matteo Zinutti - Portfolio'
   [[menu.header]]
     name = "articles"
     weight = 4
-    url = "/blog/"
+    url = "/articles/"
 
 
 [params]

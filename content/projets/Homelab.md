@@ -4,7 +4,7 @@ date = 2023-01-25
 menu = "main"
 +++
 
-> Depuis maintenant 3 mois j'essaye de me construire mon propre homelab afin de pouvoir pratiquer des technologies et ainsi m'autoformer. Ceci permet également d'ajouter un coté pratique à tout ce que j'apprend en ligne, en cours, etc.
+> Depuis maintenant 3 mois j'essaye de me construire mon propre homelab afin de pouvoir pratiquer des technologies et ainsi m'autoformer. Ceci permet également d'ajouter un côté pratique à tout ce que j'apprend en ligne, en cours, etc.
 
 <!--more-->
 ---
@@ -27,7 +27,7 @@ menu = "main"
 
 ## Mes services
 
-> Actuellement j'héberge 4 services sur mon Raspeberry PI, 3 services conteneurisé avec docker et le dernier (VPN) installé directement sur le Raspeberry PI. Les services conteneurisé sont déployés grâce à des fichiers docker-compose ce qui permet une configuration et un déploiement rapide.
+> Actuellement j'héberge 4 services sur mon Raspberry PI, 3 services conteneurisé avec docker et le dernier (VPN) installé directement sur le Raspberry PI. Les services conteneurisés sont déployés grâce à des fichiers docker-compose ce qui permet une configuration et un déploiement rapide.
 
 ### Portainer
 
@@ -51,4 +51,4 @@ menu = "main"
 
 ## Par la suite
 
-> Prochainement je souhaiterai m'acheter ou bien récupérer des composants afin de pouvoir améliorer mon infra et me faire un serveur plus puissant. Ceci permettrai d'installer un hyperviseur de type 1 comme proxmox dessus.
+> Prochainement je souhaiterai m'acheter ou bien récupérer des composants afin de pouvoir améliorer mon infra et me faire un serveur plus puissant. Ceci permettrait d'installer un hyperviseur de type 1 comme proxmox dessus.
