@@ -3,7 +3,7 @@ title = "Création de VM à la demande"
 date = 2022-02-03
 menu = "main"
 +++
-
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 > J'ai réalisé ce projet lors de mon second stage de BTS. Le but était de créer une plateforme afin que les chercheurs de l'université d'Evry puissent avoir des VM provisionnées automatiquement de type stack LAMP. J'ai réalisé ce projet avec un autre stagiaire présent à ce moment et mon tuteur qui nous a supervisé pendant les 5 semaines de stage.
 <!--more-->
 ---
@@ -46,7 +46,6 @@ menu = "main"
 - Programme pour créer des images de systèmes de fichier
 - Dans notre cas nous avons créer une image iso avec les fichiers cloud-init dedans
 
-### Ansible 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+### Ansible
 
 ### Ansible Tower
