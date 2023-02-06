@@ -1,6 +1,6 @@
 +++
 title = "Mes compétences"
-date = 2023-01-25T21:47:32+01:00
+date = 2023-01-25
 menu = "main"
 +++
 
@@ -33,6 +33,7 @@ menu = "main"
 
 - Azure
 - AWS
+- GCP
 
 ## Scripting
 

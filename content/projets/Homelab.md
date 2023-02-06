@@ -21,11 +21,15 @@ menu = "main"
 
 ## Mon infrastructure
 
+---
+
 - Raspberry Pi 4 4GB
 - NAS Synology DS214
 - Switch Netgear 8 ports 1Gb/s
 
 ## Mes services
+
+---
 
 > Actuellement j'héberge 4 services sur mon Raspberry PI, 3 services conteneurisé avec docker et le dernier (VPN) installé directement sur le Raspberry PI. Les services conteneurisés sont déployés grâce à des fichiers docker-compose ce qui permet une configuration et un déploiement rapide.
 
@@ -50,5 +54,7 @@ menu = "main"
 ---
 
 ## Par la suite
+
+---
 
 > Prochainement je souhaiterai m'acheter ou bien récupérer des composants afin de pouvoir améliorer mon infra et me faire un serveur plus puissant. Ceci permettrait d'installer un hyperviseur de type 1 comme proxmox dessus.
