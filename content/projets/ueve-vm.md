@@ -1,6 +1,6 @@
 +++
 title = "Création de VM à la demande"
-date = 2022-02-03
+date = 03/02/2022
 menu = "main"
 +++
 

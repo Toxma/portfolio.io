@@ -1,6 +1,8 @@
 baseURL = "https://mzinutti.fr/portofolio.io/"
 languageCode = 'fr-fr'
 title = 'Matteo Zinutti - Portfolio'
+defaultContentLanguage = 'fr'
+
 
 
 [menu]

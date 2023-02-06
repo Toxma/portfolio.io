@@ -1,6 +1,6 @@
 +++
 title = "Portfolio"
-date = 2023-01-30T21:40:35+01:00
+date = 30/01/2023
 menu = "main"
 +++
 ![Hugo](https://img.shields.io/badge/hugo-FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/github%20pages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)
