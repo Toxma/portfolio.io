@@ -1,6 +1,6 @@
 +++
 title = "À propos"
-date = "2023-01-28"
+date = 2023-01-28
 menu = "main"
 +++
 

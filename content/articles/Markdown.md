@@ -1,6 +1,6 @@
 +++
 title = "Mon workflow en markdown"
-date = 2023-01-30T22:46:28+01:00
+date = 2023-01-30
 menu = "main"
 +++
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![VSCodium](https://img.shields.io/badge/vscodium-2F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)
