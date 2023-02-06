@@ -3,7 +3,7 @@ title = "Mon workflow en markdown"
 date = 2023-01-30T22:46:28+01:00
 menu = "main"
 +++
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![VSCodium](https://img.shields.io/badge/vscodium-%231563FF.svg?style=for-the-badge&logo=vscodium&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![VSCodium](https://img.shields.io/badge/vscodium-2F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)
 
 > Le markdown est un langage de balisage créé en 2004, il a pour but d'être une syntaxe facile à lire et à écrire. Personnellement je l'utilise pour écrire mes cours, prendre des notes ou bien même pour faire les pages de mon portfolio.
 

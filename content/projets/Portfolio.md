@@ -3,7 +3,7 @@ title = "Portfolio"
 date = 2023-01-30T21:40:35+01:00
 menu = "main"
 +++
-![Hugo](https://img.shields.io/badge/hugo-FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)![GitHub Pages](https://img.shields.io/badge/github%20pages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)
+![Hugo](https://img.shields.io/badge/hugo-FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/github%20pages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)
 
 > Création de mon portfolio afin de pouvoir avoir une vitrine disponible directement et sur le web. Ceci m'a également permis d'utiliser des technologies que je ne connaissais pas avant. Je souhaiterai à terme utiliser cette page en tant que blog afin de pouvoir partager mes connaissances dessus.
 
