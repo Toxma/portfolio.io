@@ -21,7 +21,7 @@
   Name = "Matteo Zinutti"
   HeaderUsername = "Matteoz"
   HeaderHostname = "portfolio"
-  About = "Étudiant en 1ʳᵉ année de Master DevOps et Cloud, je cultive ma passion pour l'automatisation et les infrastructures cloud. Mon homelab est mon terrain de jeu où je peux pratiquer sans limites les connaissances que j'acquiers de mon côté tel que AWS, Ansible, Docker, Terraform. À la recherche d'opportunités de collaboration. #DevOps #CloudComputing #InfrastructureAsCode #SelfMade"
+  About = "Étudiant en M1 DevOps et Cloud, je cultive ma passion pour l'automatisation et les infrastructures cloud. Mon homelab est mon terrain de jeu où je peux pratiquer sans limites les connaissances que j'acquiers de mon côté tel que AWS, Ansible, Docker, Terraform.
   ProfilePicture = "/profilepic.png"
   favicon = "/profilepic.png"
   GithubID = "Toxma"

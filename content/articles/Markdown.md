@@ -30,7 +30,7 @@ menu = "main"
     "cacheUrl": "https://vscode.blob.core.windows.net/gallery/index",
     "itemUrl": "https://marketplace.visualstudio.com/items"
     },
-
+ 
 ```
 
 ### Mes extensions
@@ -67,5 +67,5 @@ menu = "main"
         },
         "editor.formatOnSave": true
     }
-
+ 
 ```
