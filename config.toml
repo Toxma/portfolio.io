@@ -1,11 +1,3 @@
-baseURL = "https://mzinutti.fr/portofolio.io/"
-languageCode = 'fr-fr'
-title = 'Matteo Zinutti - Portfolio'
-defaultContentLanguage = 'fr'
-googleAnalytics = 'G-WXHG8B8VHJ'
-
-
-
 [menu]
   [[menu.header]]
     name = "à propos"
