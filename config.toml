@@ -1,18 +1,18 @@
 [menu]
   [[menu.header]]
-    name = "à propos"
+    name = "À propos"
     weight = 1
     url = "/about/"
   [[menu.header]]
-    name = "compétences"
+    name = "Compétences"
     weight = 2
     url = "/skills/"
   [[menu.header]]
-    name = "projets"
+    name = "Projets"
     weight = 3
     url = "/projets/"
   [[menu.header]]
-    name = "articles"
+    name = "Articles"
     weight = 4
     url = "/articles/"
 
