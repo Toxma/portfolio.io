@@ -1,6 +1,6 @@
 +++
 title = "À propos"
-date = 2023-01-28
+date = 2023-11-08
 menu = "main"
 +++
 
@@ -12,7 +12,7 @@ menu = "main"
 
 ---
 
->Je m'appelle Matteo ZINUTTI, 21 ans et je suis actuellement en 3ème année de Bachelor Systèmes, Réseaux et Cloud en alternance à l'école Sup De Vinci. Passionné d'informatique et de nouvelles technologies depuis le lycée j'ai donc décidé de poursuivre mes études dans ce domaine. Avec une première expérience dans l'automatisation informatique / électronique en DUT GEII, je me suis ensuite réorienté dans une branche plus spécialisé dans le développement web / applicatif en BTS SIO et désormais je me forme dans les domaines des systèmes, réseaux et cloud.
+>Je m'appelle Matteo ZINUTTI, 22 ans et je suis actuellement en 1ère année de mastère Devops & Cloud en alternance à Sup De Vinci. Passionné d'informatique et de nouvelles technologies depuis le lycée j'ai donc décidé de poursuivre mes études dans ce domaine. Avec une première expérience dans l'automatisation informatique / électronique en DUT GEII, je me suis ensuite réorienté dans une branche plus spécialisé dans le développement web / applicatif en BTS SIO et désormais je me forme dans les domaines des systèmes, réseaux et cloud.
 
 ## Mon projet professionnel
 
